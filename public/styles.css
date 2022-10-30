@@ -1,0 +1,49 @@
+.container {
+  float: left;
+  width: 100%;
+  text-align: center;
+  padding-top: 130px;
+}
+
+#hid {
+  visibility: hidden;
+  padding-top: 30px;
+}
+
+form {
+  float: left;
+  width: 20%;
+  margin: 0 40%;
+}
+
+#hid {
+  visibility: hidden;
+}
+
+.form-gap {
+  padding-top: 70px;
+}
+
+.panel-body {
+  background-color: #ede4e0;
+  color: #665a48;
+}
+
+i {
+  color: #9f8772;
+}
+
+input {
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+  background-color: #c8dbbe;
+  border: none;
+  border-radius: 8px;
+}
